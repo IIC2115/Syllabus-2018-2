@@ -28,7 +28,7 @@
 | G06-H06 | jmelibosky | Joaquín Melibosky | AmandaStefanic | Amanda Heidi Stefanic |
 | A07-B07 | jcvukasovic | Javiera Cristina Vukasovic | memadrid | Michelle Belén Madrid |
 | C07-D07 | aakaid | Alejandro Antonio Kaid | fjgran | Federico José Gran |
-| E07-F07 | github | nombre apellido | CarlosCarvajalGallegos | Carlos Andrés Carvajal |
+| E07-F07 | dapulido | Diego Andrés Pulido | CarlosCarvajalGallegos | Carlos Andrés Carvajal |
 | G07-H07 | Jiallende | Juan Ignacio Allende | nmcarvajalcortes | Nicolás Mauricio Carvajal |
 | A08-B08 | jgmorales23 | Javier Ignacio Morales | mathiasmoller | Mathias Andrés Moller |
 | C08-D08 | javial2 | José Antonio Vial | crencoret | Cristián Rencoret |
@@ -47,9 +47,8 @@
 | E11-F11 | momaggi | Macarena Sofia Maggi | gabarrientos | Gustavo Andrés Barrientos |
 | G11-H11 | dmsepv | Diego Miguel Sepúlveda | fjgonzalez5 | Felipe José González |
 | A12-B12 | pcastrob | Pablo Ignacio Castro | panchoherrera | Francisco Javier Herrera |
-| C12 | dapulido | Diego Andrés Pulido |  |  |
-| D12 |  | Milena  Gonzalez |  |  |
-| E12 |  | Grégoire Pasquier-Desvignes |  |  |
-| F12 | Katja-Flo | Katja Flosdorff |  |  |
-| G12 |  | Fernando Diaz |  |  |
-| H12 |  | Jonas Krokan |  |  |
+| C12 |  | Milena  Gonzalez |  |  |
+| D12 |  | Grégoire Pasquier-Desvignes |  |  |
+| E12 | Katja-Flo | Katja Flosdorff |  |  |
+| F12 |  | Fernando Diaz |  |  |
+| G12 |  | Jonas Krokan |  |  |
