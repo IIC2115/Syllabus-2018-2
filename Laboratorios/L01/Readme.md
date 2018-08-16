@@ -47,8 +47,8 @@
 | E11-F11 | momaggi | Macarena Sofia Maggi | gabarrientos | Gustavo Andrés Barrientos |
 | G11-H11 | dmsepv | Diego Miguel Sepúlveda | fjgonzalez5 | Felipe José González |
 | A12-B12 | pcastrob | Pablo Ignacio Castro | panchoherrera | Francisco Javier Herrera |
-| C12 |  | Milena  Gonzalez |  |  |
-| D12 |  | Grégoire Pasquier-Desvignes |  |  |
-| E12 | Katja-Flo | Katja Flosdorff |  |  |
-| F12 |  | Fernando Diaz |  |  |
-| G12 |  | Jonas Krokan |  |  |
+| C12-D12 | xayovaniniz | Ximena Yovaniniz | Ignacio-Zapata | Ignacio Zapata |
+| E12 |  | Milena  Gonzalez |  |  |
+| F12 |  | Grégoire Pasquier-Desvignes |  |  |
+| G12 | Katja-Flo | Katja Flosdorff |  |  |
+| H12 |  | Jonas Krokan |  |  |
