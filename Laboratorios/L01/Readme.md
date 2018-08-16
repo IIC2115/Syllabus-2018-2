@@ -48,7 +48,8 @@
 | G11-H11 | dmsepv | Diego Miguel Sepúlveda | fjgonzalez5 | Felipe José González |
 | A12-B12 | pcastrob | Pablo Ignacio Castro | panchoherrera | Francisco Javier Herrera |
 | C12-D12 | xayovaniniz | Ximena Yovaniniz | Ignacio-Zapata | Ignacio Zapata |
-| E12 |  | Milena  Gonzalez |  |  |
-| F12 |  | Grégoire Pasquier-Desvignes |  |  |
-| G12 | Katja-Flo | Katja Flosdorff |  |  |
-| H12 |  | Jonas Krokan |  |  |
+| E12-F12 | antooliva | Antonia Oliva | cmfrancke | Cristobal Francke |
+| G12 |  | Milena  Gonzalez |  |  |
+| H12 | Katja-Flo | Katja Flosdorff |  |  |
+|  -  |  | Jonas Krokan |  |  |
+|  -  |  | Grégoire Pasquier-Desvignes |  |  |
