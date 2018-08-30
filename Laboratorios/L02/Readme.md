@@ -43,8 +43,8 @@
 | E10-F10 | NotDuarte | Carlos Javier Duarte | ajgarin | Andrés Jesús Garín |
 | G10-H10 | jfmorenosm | Joaquín Moreno | vicentepirazzoli | Vicente Tomas Jose Pirazzoli |
 | A11-B11 | CristobalCaroF | Cristóbal Andrés Caro | fjgran | Federico José Gran |
-| C11-D11 | jgmorales23 | Javier Ignacio Morales | PanchoMan1 | Francisco José Alliende |
-| E11-F11 | momaggi | Macarena Sofia Maggi | Milena2021 | Milena Sofía González |
+| C11-D11 | jgmorales23 | Javier Ignacio Morales | Milena2021 | Milena Sofía González |
+| E11-F11 | momaggi | Macarena Sofia Maggi | PanchoMan1 | Francisco José Alliende |
 | G11-H11 | vagalvez | Víctor Andrés Gálvez | jcamusk | Joaquín Andrés Camus |
 | A12-B12 | Ignacio-Zapata | Ignacio José Zapata | mathiasmoller | Mathias Andrés Moller |
 | C12-D12 | Rslagos | Ricardo Andrés Lagos | JJCollado | Juan Jose Collado |
