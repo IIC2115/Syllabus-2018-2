@@ -21,6 +21,8 @@ y controles escritos. Se calculará **la nota del curso NC** como:
 
 Si quiere recorregir, espere que empiece el periodo de recorrección, que será avisado por oportunamente. Las instrucciones y form se darán a conocer prontamente.
 
+Todo mail debe ser enviado al mail oficial: iic2115@ing.puc.cl. Cualquier mail enviado por otro medio, no será respondido.
+
 ## Foro
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas.
