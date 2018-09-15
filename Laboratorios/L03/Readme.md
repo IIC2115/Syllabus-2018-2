@@ -9,7 +9,7 @@
 | E02-F02 | camallea | Carolina Andrea Mallea | javial2 | José Antonio Vial |
 | G02-H02 | CarlosCarvajalGallegos | Carlos Andrés Carvajal | simperatore | Sebastián Imperatore |
 | A03-B03 | marcelobordoni | Marcelo Ignacio Bordoni | Milena2021 | Milena Sofía González |
-| C03-D03 | admarangunic | Antonio Drejan Marangunic | jiechevarria | Javier Ignacio Echevarría |
+| C03-D03 | admarangunic | Antonio Drejan Marangunic | vclagos | Valentina Clio Lagos |
 | E03-F03 | jcamusk | Joaquín Andrés Camus | vtorresg | Vicente Javier Torres |
 | G03-H03 | antooliva | Antonia Estefania Oliva | pablorojasqui | Pablo Andrés Rojas |
 | A04-B04 | jmelibosky | Joaquín Melibosky | momaggi | Macarena Sofia Maggi |
@@ -24,9 +24,9 @@
 | C06-D06 | lucazul | Lucas Rodríguez | SCanata | Stefano Antonio Canata |
 | E06-F06 | CabelloAlvaro | Alvaro Agustin Cabello | jpvanwersch | Juan Pablo Van Wersch |
 | G06-H06 | samuelarteagao | Samuel Alberto Arteaga | JJCollado | Juan Jose Collado |
-| A07-B07 | sicatalan | Sebastián Ignacio Catalán | barmijod | Benjamín Armijo |
+| A07-B07 | sicatalan | Sebastián Ignacio Catalán | Dansot7 | Daniel Eduardo Soto |
 | C07-D07 | dmsepv | Diego Miguel Sepúlveda | japerez7 | José Antonio Pérez |
-| E07-F07 | cpavez3 | Cristóbal Pavez | vclagos | Valentina Clio Lagos |
+| E07-F07 | jiechevarria | Javier Ignacio Echevarría | cpavez3 | Cristóbal Pavez |
 | G07-H07 | fermartinez21 | Fernanda Consuelo Martinez | Leovk | Leonel Esteban Venegas |
 | A08-B08 | AmandaStefanic | Amanda Heidi Stefanic | CristobalCaroF | Cristóbal Andrés Caro |
 | C08-D08 | agrudsky95 | Andrés Grudsky | gevicencio | Gonzalo Eduardo Vicencio |
@@ -45,7 +45,7 @@
 | E11-F11 | memadrid | Michelle Belén Madrid | crencoret | Cristián Rencoret |
 | G11-H11 | shiflix | Lucas Alfonso Rodrigo Ern Schiefelbein | PilarPrieto | María Del Pilar Prieto |
 | A12-B12 | juanmanuelmedina | Juan Manuel Medina | jbhernandez | Joaquin Alberto Hernandez |
-| C12-D12 | Dansot7 | Daniel Eduardo Soto | otdelpozo | Oscar Tomás Alberto Del Pozo |
+| C12-D12 | barmijod | Benjamín Armijo | otdelpozo | Oscar Tomás Alberto Del Pozo |
 | - | CataWied | Catalina Mónica Wiedmaier |  |  |
 | - | xayovaniniz | Ximena Andrea Yovaniniz |  |  |
 | - | Gregoire0505 | Grégoire Pasquier-Desvignes |  |  |
