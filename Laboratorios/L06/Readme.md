@@ -1,8 +1,8 @@
 | Puestos | Github 1 | Alumno 1 | Github 2 | Alumno 2 |
 |:-------:|:--------------:|:---------------:|:---------------:|:---------------:|
 | A01-B01 | javierpenafiel | Javier Ignacio Peñafiel | ravielr | Rodrigo Andrés Viel |
-| C01-D01 | Jiallende | Juan Ignacio Allende | fjgonzalez5 | Felipe José González |
-| E01-F01 | ajgarin | Andrés Jesús Garín | panchoherrera | Francisco Javier Herrera |
+| C01-D01 | Jiallende | Juan Ignacio Allende | panchoherrera | Francisco Javier Herrera | 
+| E01-F01 | ajgarin | Andrés Jesús Garín | fjgonzalez5 | Felipe José González |
 | G01-H01 | emapazvaldes | Ema Paz Valdés | marigonzalezm | Mariela Alejandra González |
 | A02-B02 | nmcarvajalcortes | Nicolás Mauricio Carvajal | CarlosCarvajalGallegos | Carlos Andrés Carvajal |
 | C02-D02 | vlizquierdo | Vicente Luis Izquierdo | DanielBurrows | Daniel Ignacio Burrows |
